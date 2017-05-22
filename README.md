@@ -6,17 +6,17 @@
 
 <DT><H3 FOLDED ADD_DATE="97904862771">开发相关</H3>
 <DL><P>
-<DT><A HREF="http://www.oschina.net/" ADD_DATE="97904862771">开源中国 - 找到您想要的开源软件，分享和交流</A>
-<DT><A HREF="http://www.iwapzone.com/html/app/" ADD_DATE="97904862771">应用源码_WAP地带-Android开发-Android源码-Android源码下载-Android应用源码下载</A>
-<DT><A HREF="http://www.juapk.com/forum-71-1.html" ADD_DATE="97904862771">安卓android开源项目 - juapk做最棒的Android软件开发交流社区</A>
-<DT><A HREF="http://www.cnblogs.com/feifei1010/archive/2012/08/31/2664939.html" ADD_DATE="97904862771">基于android的远程视频监控系统（已开放源码） - vincy - 博客园</A>
-<DT><A HREF="http://a.code4app.com/" ADD_DATE="97904862771">Code4App·Android - Android开源代码库 - 安卓代码实例搜索 - Android特效示例 - 安卓代码例子下载 - a.Code4App.com</A>
+<DT> <A HREF="http://www.oschina.net/" ADD_DATE="97904862771"> open China - find what you want open source software, sharing and exchange of </A>
+<DT> <A HREF="http://www.iwapzone.com/html/app/" ADD_DATE="97904862771"> application source code _WAP zone -Android development -Android source -Android application source code download source code download -Android < / A>
+<DT> <A HREF="http://www.juapk.com/forum-71-1.html" ADD_DATE="97904862771"> Andrews android open source project - juapk do the best Android software development community exchange </ A >
+<DT> <A HREF="http://www.cnblogs.com/feifei1010/archive/2012/08/31/2664939.html" ADD_DATE="97904862771"> android-based remote video surveillance system (already open source) - vincy - blog Park </A>
+<DT> <A HREF="http://a.code4app.com/" ADD_DATE="97904862771"> Code4App · Android - Android open source library - Andrews search code examples - Android exemplary effects - Andrews download code examples - a. Code4App.com </A>
 <DT><A HREF="http://www.codecademy.com/zh" ADD_DATE="97904862771">学习编程 | Codecademy</A>
 <DT><A HREF="http://qualcomm.csdn.net/module/zone/qualcomm/ziyuan" ADD_DATE="97904862771">高通开发者专区</A>
-<DT><A HREF="http://www.cnblogs.com/hnlshzx/p/3511644.html" ADD_DATE="97904862771">高手速成android开源项目【导航篇】 - elysee - 博客园</A>
-<DT><A HREF="http://blog.csdn.net/cym492224103/article/details/38467611" ADD_DATE="97904862771">ym——android源码大放送（实战开发必备） - Chad.cym的专栏 - 博客频道 - CSDN.NET</A>
+<DT> <A HREF="http://www.cnblogs.com/hnlshzx/p/3511644.html" ADD_DATE="97904862771"> master quick navigation android open source projects [articles] - elysee - blog Park </A>
+<DT> <A HREF="http://blog.csdn.net/cym492224103/article/details/38467611" ADD_DATE="97904862771"> ym - android source big run (combat development necessary) - Chad.cym of column - blog channel - cSDN.NET </A>
 <DT><A HREF="http://git.oschina.net/oschina/android-app" ADD_DATE="97904862771">oschina / android-app - 代码托管 - 开源中国社区</A>
-<DT><A HREF="http://www.code4app.com/" ADD_DATE="97904862771">Code4App-iOS开发-iOS 开源代码库-iOS代码实例搜索-iOS特效示例-iOS代码例子下载-Code4App.com</A>
+<DT> <A HREF="http://www.code4app.com/" ADD_DATE="97904862771"> Code4App-iOS development open source library -iOS -iOS search code examples -iOS effects sample -iOS download code examples -Code4App .com </A>
 <DT><A HREF="http://blog.daimajia.com/" ADD_DATE="97904862771">代码家</A>
 <DT><A HREF="http://stackoverflow.com/" ADD_DATE="97904862771">Stack Overflow</A>
 <DT><A HREF="http://www.codeproject.com/" ADD_DATE="97904862771">TheCodeProject[英]</A>
@@ -30,7 +30,7 @@
 <DT><A HREF="http://www.androidweekly.cn/" ADD_DATE="97904862771">androidweekly(Android开发技术周报)</A>
 <DT><A HREF="https://github.com/skylot/jadx" ADD_DATE="97904862771">skylot/jadx(新一代apk反编译神器)</A>
 <DT><A HREF="https://github.com/ruijun/Android-Dev-Favorites" ADD_DATE="97904862771">ruijun/Android-Dev-Favorites(开发者的收藏夹)</A>
-<DT><A HREF="https://github.com/jiang111/awesome-android-tips" ADD_DATE="97904862771">awesome-android-tips(总结 Android 开发中一些很有用但你不知道的方法)</A>
+<DT> <A HREF="https://github.com/jiang111/awesome-android-tips" ADD_DATE="97904862771"> awesome-android-tips (summarize some useful but you do not know the way Android development) </A>
 </DL><P>
 
 
@@ -81,14 +81,14 @@
 
 <DT><H3 FOLDED ADD_DATE="97904862772">Android热修复</H3>
 <DL><P>
-<DT><A HREF="https://github.com/alibaba/dexposed" ADD_DATE="96440789165">alibaba/dexposed(hook方法并注入自己的代码，阿里淘宝出品，支持2.3-5.0，不支持ART模式,不需重启就生效)</A>
-<DT><A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165">alibaba/AndFix(方法的hook，以Field为切入点。阿里支付宝出品，支持2.3-6.0,不需重启就生效)</A>
-<DT><A HREF="https://github.com/dodola/HotFix" ADD_DATE="96440789165">dodola/HotFix(利用ClassLoader的findClass的加载顺序进行替换类，腾讯空间出品，支持2.3-6.0,需重启才生效)</A>
+<DT> <A HREF="https://github.com/alibaba/dexposed" ADD_DATE="96440789165"> alibaba / dexposed (hook method and inject their own code, Ali Taobao produced in support of 2.3 to 5.0, does not support ART mode, without a reboot to take effect) </A>
+<DT> <A HREF="https://github.com/alibaba/AndFix" ADD_DATE="96440789165"> alibaba / AndFix hook (method to Field as the starting point. Ali Alipay produced in support of 2.3-6.0, not We need to restart to take effect) </A>
+<DT> <A HREF="https://github.com/dodola/HotFix" ADD_DATE="96440789165"> dodola / HotFix (using ClassLoader loading sequence is replaced findClass class space Tencent produced, 2.3-6.0 support, We need to restart to take effect) </A>
 <DT><A HREF="https://github.com/bunnyblue/DroidFix" ADD_DATE="96440789165">bunnyblue/DroidFix(原理同HotFix)</A>
 <DT><A HREF="https://github.com/jasonross/Nuwa" ADD_DATE="96440789165">jasonross/Nuwa(原理同HotFix)</A>
-<DT><A HREF="https://github.com/zzz40500/Tinker_imitator" ADD_DATE="96440789165">zzz40500/Tinker_imitator(全量替换新的Dex，微信的解决方案，第三方出品，支持2.3-6.0，需重启才生效)</A>
-<DT><A HREF="https://github.com/dodola/AnoleFix" ADD_DATE="96440789165">dodola/AnoleFix(另一个热修复方案 Alpha，来自InstantRun 和 Robust 类似，支持4.0-7.0，不需重启就生效)</A>
-<DT><A HREF="https://github.com/Tencent/tinker" ADD_DATE="96440789165">Tencent/tinker(微信热修复方案，支持4.0-7.0，需重启就生效)</A>
+<DT> <A HREF="https://github.com/zzz40500/Tinker_imitator" ADD_DATE="96440789165"> zzz40500 / Tinker_imitator (Dex replaced with a new full amount, micro-channel solution, produced by a third party, 2.3-6.0 support, We need to restart to take effect) </A>
+<DT> <A HREF="https://github.com/dodola/AnoleFix" ADD_DATE="96440789165"> dodola / AnoleFix (hot fix another embodiment Alpha, from InstantRun Robust and the like, 4.0-7.0 support, without a reboot to take effect) </A>
+<DT> <A HREF="https://github.com/Tencent/tinker" ADD_DATE="96440789165"> Tencent / tinker (micro-channel heat rehabilitation program, 4.0-7.0 support, need to restart will take effect) </A>
 </DL><P>
 
 <DT><H3 FOLDED ADD_DATE="97904862771">code github</H3>
@@ -119,8 +119,8 @@
 <DT><A HREF="https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout" ADD_DATE="96440789165">recruit-lifestyle/WaveSwipeRefreshLayout(下拉刷新，动画不错)</A>
 <DT><A HREF="https://github.com/android-cjj/BeautifulRefreshLayout" ADD_DATE="96440789165">BeautifulRefreshLayout(漂亮的下来刷新控件)</A>
 <DT><A HREF="https://github.com/THEONE10211024/WaterDropListView" ADD_DATE="96440789165">WaterDropListView(下拉刷新“雨滴”效果的ListView)</A>
-<DT><A HREF="https://github.com/LuckyJayce/MVCHelper" ADD_DATE="96440789165">LuckyJayce/MVCHelper(下拉刷新，滚动底部自动加载更多)</A>
-<DT><A HREF="https://github.com/nugongshou110/AutoHomeRefreshListView" ADD_DATE="96440789165">AutoHomeRefreshListView(仿汽车之家下拉刷新)</A>
+<DT> <A HREF="https://github.com/LuckyJayce/MVCHelper" ADD_DATE="96440789165"> LuckyJayce / MVCHelper (pull-down refresh, automatic loading of a scroll more) </A>
+<DT> <A HREF="https://github.com/nugongshou110/AutoHomeRefreshListView" ADD_DATE="96440789165"> AutoHomeRefreshListView (imitation car home drop-down refresh) </A>
 <DT><A HREF="https://github.com/nugongshou110/MeiTuanRefreshListView" ADD_DATE="96440789165">MeiTuanRefreshListView(仿美团下拉刷新)</A>
 <DT><A HREF="https://github.com/bulletnoid/StaggeredGridView" ADD_DATE="97904862771">bulletnoid/StaggeredGridView · GitHub</A>
 <DT><A HREF="https://github.com/TonicArtos/StickyGridHeaders" ADD_DATE="97904862771">TonicArtos/StickyGridHeaders · GitHub</A>
@@ -140,7 +140,7 @@
 <DT><A HREF="https://github.com/JoanZapata/base-adapter-helper" ADD_DATE="97904862771">JoanZapata/base-adapter-helper · GitHub</A>
 <DT><A HREF="https://github.com/kymjs/KJFrameForAndroid" ADD_DATE="97904862771">kymjs/KJFrameForAndroid · GitHub</A>
 <DT><A HREF="https://github.com/card-io/card.io-Android-SDK" ADD_DATE="97904862771">card-io/card.io-Android-SDK · GitHub</A>
-<DT><A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771">SpecialCyCi/AndroidResideMenu (仿Dribbble的边栏菜单,类似QQ5.0侧滑)</A>
+<DT> <A HREF="https://github.com/SpecialCyCi/AndroidResideMenu" ADD_DATE="97904862771"> SpecialCyCi / AndroidResideMenu (imitation Dribbble sidebar menu, similar sliding QQ5.0) </A>
 <DT><A HREF="https://github.com/BlueMor/DragLayout" ADD_DATE="97904862771">BlueMor/DragLayout(v4包下的ViewDragHelper实现QQ5.0侧滑)</A>
 <DT><A HREF="https://github.com/baoyongzhang/SwipeMenuListView" ADD_DATE="97904862771">baoyongzhang/SwipeMenuListView · GitHub</A>
 <DT><A HREF="https://github.com/wuyexiong/transparent-over-animtabsview" ADD_DATE="97904862771">wuyexiong/transparent-over-animtabsview · GitHub</A>
@@ -173,21 +173,21 @@
 <DT><A HREF="https://github.com/wangjiegulu/DraggableFlagView" ADD_DATE="97904862771">wangjiegulu/DraggableFlagView · GitHub</A>
 <DT><A HREF="https://github.com/Diolor/Swipecards" ADD_DATE="97904862771">Diolor/Swipecards · GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/mxn21/SlidingCard" ADD_DATE="97904862771">mxn21/SlidingCard · GitHub(滑动卡片)</A>
-<DT><A HREF="https://github.com/xiepeijie/SwipeCardView" ADD_DATE="97904862771">xiepeijie/SwipeCardView · GitHub(滑动卡片，带渐变层叠动画的左右滑动效果)</A>
-<DT><A HREF="https://github.com/xmuSistone/android-card-slide-panel" ADD_DATE="97904862771">xmuSistone/android-card-slide-panel · GitHub(模仿探探首页卡片左右滑动效果，滑动流畅，卡片view无限重生)</A>
+<DT> <A HREF="https://github.com/xiepeijie/SwipeCardView" ADD_DATE="97904862771"> xiepeijie / SwipeCardView · GitHub (slide card, with the left and right sliding effect animation laminated gradient) </A>
+<DT> <A HREF="https://github.com/xmuSistone/android-card-slide-panel" ADD_DATE="97904862771"> xmuSistone / android-card-slide-panel · GitHub (imitation card about beating the Home sliding effect, smooth sliding, the card view unlimited regeneration) </A>
 <DT><A HREF="https://github.com/flschweiger/SwipeStack" ADD_DATE="97904862771">flschweiger/SwipeStack·GitHub(滑动卡片)</A>
 <DT><A HREF="https://github.com/LitePalFramework/LitePal" ADD_DATE="97904862771">LitePalFramework/LitePal · GitHub</A>
 <DT><A HREF="https://github.com/umano/AndroidSlidingUpPanel" ADD_DATE="97904862771">umano/AndroidSlidingUpPanel · GitHub</A>
 <DT><A HREF="https://github.com/nemoTyrant/manong" ADD_DATE="97904862771">nemoTyrant/manong</A>
 <DT><A HREF="https://github.com/wasabeef/awesome-android-ui" ADD_DATE="97904862771">wasabeef/awesome-android-ui(UI集合)</A>
 <DT><A HREF="https://github.com/DesarrolloAntonio/FragmentTransactionExtended" ADD_DATE="97904862771">DesarrolloAntonio/FragmentTransactionExtended</A>
-<DT><A HREF="https://github.com/andkulikov/transitions-everywhere" ADD_DATE="97904862771">andkulikov/transitions-everywhere(转场动画，低版本兼容到Android2.2)</A>
+<DT> <A HREF="https://github.com/andkulikov/transitions-everywhere" ADD_DATE="97904862771"> andkulikov / transitions-everywhere (transition animation Compatible to low Android2.2) </A>
 <DT><A HREF="https://github.com/baoyongzhang/RecyclerViewDemo" ADD_DATE="97904862771">baoyongzhang/RecyclerViewDemo</A>
 <DT><A HREF="https://github.com/aosp-exchange-group/share" ADD_DATE="97904862771">aosp-exchange-group/share</A>
 <DT><A HREF="https://github.com/evant/JobSchedulerCompat" ADD_DATE="97904862771">evant/JobSchedulerCompat</A>
 <DT><A HREF="https://github.com/r0adkll/Slidr" ADD_DATE="100747801277">r0adkll/Slidr</A>
 <DT><A HREF="https://github.com/ikew0ng/SwipeBackLayout" ADD_DATE="100747801277">SwipeBackLayout</A>
-<DT><A HREF="https://github.com/Jude95/SwipeBackHelper" ADD_DATE="100747801277">Jude95/SwipeBackHelper(仿微信的滑动返回效果)</A>
+<DT> <A HREF="https://github.com/Jude95/SwipeBackHelper" ADD_DATE="100747801277"> Jude95 / SwipeBackHelper (sliding imitation effect of returning the micro-channel) </A>
 <DT><A HREF="https://github.com/android-cn/android-open-project-analysis" ADD_DATE="100747801277">android-cn/android-open-project-analysis</A>
 <DT><A HREF="https://github.com/tigerguixh/QuickNews" ADD_DATE="100747801277">tigerguixh/QuickNews</A>
 <DT><A HREF="https://github.com/android-cn" ADD_DATE="96440789165">android-cn</A>
@@ -209,7 +209,7 @@
 <DT><A HREF="https://github.com/qiujuer/Genius-Android" ADD_DATE="96440789165">Genius-Android</A>
 <DT><A HREF="https://github.com/zarics/ZrcListView" ADD_DATE="96440789165">ZrcListView</A>
 <DT><A HREF="https://github.com/chrisbanes/PhotoView" ADD_DATE="96440789165">chrisbanes/PhotoView(图片预览)</A>
-<DT><A HREF="https://github.com/boycy815/PinchImageView" ADD_DATE="96440789165">boycy815/PinchImageView(体验最好的图片手势控件，不同分辨率无缝切换，可与ViewPager结合使用)</A>
+<DT> <A HREF="https://github.com/boycy815/PinchImageView" ADD_DATE="96440789165"> boycy815 / PinchImageView (experience the best image gesture control, different resolution seamless switching, used in conjunction with ViewPager ) </A>
 <DT><A HREF="https://github.com/FrozenFreeFall/Android-tv-widget" ADD_DATE="96440789165">Android-tv-widget</A>
 <DT><A HREF="https://github.com/pedrovgs/TuentiTV" ADD_DATE="96440789165">TuentiTV</A>
 <DT><A HREF="https://github.com/linroid/Sky31Radio" ADD_DATE="96440789165">Sky31Radio</A>
@@ -249,7 +249,7 @@
 <DT><A HREF="https://github.com/Fichardu/CircleProgress" ADD_DATE="96440789165">Fichardu/CircleProgress(圆形进度条)</A>
 <DT><A HREF="https://github.com/daimajia/NumberProgressBar" ADD_DATE="96440789165">NumberProgressBar(带数字进度条)</A>
 <DT><A HREF="https://github.com/akexorcist/Android-RoundCornerProgressBar" ADD_DATE="96440789165">Android-RoundCornerProgressBar(圆角进度条)</A>
-<DT><A HREF="https://github.com/lingochamp/MagicProgressWidget" ADD_DATE="96440789165">lingochamp/MagicProgressWidget(渐变的圆形进度条与轻量横向进度条)</A>
+<DT> <A HREF="https://github.com/lingochamp/MagicProgressWidget" ADD_DATE="96440789165"> lingochamp / MagicProgressWidget (circular progress bar with lightweight lateral gradient progress bar) </A>
 <DT><A HREF="https://github.com/grantland/android-autofittextview" ADD_DATE="96440789165">android-autofittextview</A>
 <DT><A HREF="https://github.com/jjobes/SlideDateTimePicker" ADD_DATE="96440789165">SlideDateTimePicker</A>
 <DT><A HREF="https://github.com/florent37/WearMenu" ADD_DATE="96440789165">florent37/WearMenu</A>
@@ -279,7 +279,7 @@
 <DT><A HREF="https://github.com/Bilibili/ijkplayer" ADD_DATE="96440789165">Bilibili/ijkplayer(播放器)</A>
 <DT><A HREF="https://github.com/appunite/AndroidFFmpeg" ADD_DATE="96440789165">appunite/AndroidFFmpeg(视频播放)</A>
 <DT><A HREF="https://github.com/yixia/VitamioBundle" ADD_DATE="96440789165">yixia/VitamioBundle(视频播放)</A>
-<DT><A HREF="https://github.com/lipangit/jiecaovideoplayer" ADD_DATE="96440789165">lipangit/jiecaovideoplayer(安卓视频播放器 全屏 播放器列表全屏 仿今日头条UI)</A>
+<DT> <A HREF="https://github.com/lipangit/jiecaovideoplayer" ADD_DATE="96440789165"> lipangit / jiecaovideoplayer (Andrews video player full-screen full screen list of players today imitation headlines UI) </A>
 <DT><A HREF="https://github.com/7heaven/SHSegmentControl" ADD_DATE="96440789165">7heaven/SHSegmentControl</A>
 <DT><A HREF="https://github.com/chenqian2651489/SegmentIndicator" ADD_DATE="96440789165">SegmentIndicator</A>
 <DT><A HREF="https://github.com/diegocarloslima/ByakuGallery" ADD_DATE="96440789165">ByakuGallery</A>
@@ -300,33 +300,33 @@
 <DT><A HREF="https://github.com/motianhuo/wechat" ADD_DATE="96440789165">motianhuo/wechat(高仿微信)</A>
 <DT><A HREF="https://github.com/nullice/NViconsLib_Silhouette" ADD_DATE="96440789165">NViconsLib_Silhouette</A>
 <DT><A HREF="https://github.com/Manabu-GT/ExpandableTextView" ADD_DATE="96440789165">ExpandableTextView(折叠TextView)</A>
-<DT><A HREF="https://github.com/wqandroid/wqgallery" ADD_DATE="96440789165">wqandroid/wqgallery(微信样式相册选择器)</A>
+<DT> <A HREF="https://github.com/wqandroid/wqgallery" ADD_DATE="96440789165"> wqandroid / wqgallery (micro-channel pattern selector album) </A>
 <DT><A HREF="https://github.com/JulienGenoud/android-percent-support-lib-sample" ADD_DATE="96440789165">android-percent-support-lib-sample</A>
 <DT><A HREF="https://github.com/swissonid/android-design-support-lib-sample" ADD_DATE="96440789165">android-design-support-lib-sample</A>
-<DT><A HREF="https://github.com/devsoulwolf/Android-RatioLayout" ADD_DATE="96440789165">devsoulwolf/Android-RatioLayout(宽高按比例显示控件)</A>
+<DT> <A HREF="https://github.com/devsoulwolf/Android-RatioLayout" ADD_DATE="96440789165"> devsoulwolf / Android-RatioLayout (width and height control to scale) </A>
 <DT><A HREF="https://github.com/MiCode/FileExplorer" ADD_DATE="96440789165">MiCode/FileExplorer(MIUI文件管理器)</A>
 <DT><A HREF="https://github.com/TracyZhangLei/FileExplorer" ADD_DATE="96440789165">TracyZhangLei/FileExplorer(文件管理器)</A>
 <DT><A HREF="https://github.com/anton46/Android-StepsView" ADD_DATE="96440789165">Android-StepsView(分步进度)</A>
 <DT><A HREF="https://github.com/yahoo/android-range-seek-bar" ADD_DATE="96440789165">yahoo/android-range-seek-bar(随机值选取的SeekBar)</A>
 <DT><A HREF="https://github.com/oli107/material-range-bar" ADD_DATE="96440789165">oli107/material-range-bar(RangeBar的Material Design风格适配)</A>
 <DT><A HREF="https://github.com/YeDaxia/WanDaoJiaIndex" ADD_DATE="96440789165">YeDaxia/WanDaoJiaIndex(仿豌豆荚首页导航)</A>
-<DT><A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165">Skykai521/StickerCamera(集成了相机,图片裁剪,给图片贴贴图打标签的APP)</A>
-<DT><A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165">siwangqishiq/ImageEditor-Android（图形编辑开源控件，支持自定义贴图 图片滤镜 图片旋转 以及图片剪裁操作）</A>
+<DT> <A HREF="https://github.com/Skykai521/StickerCamera" ADD_DATE="96440789165"> Skykai521 / StickerCamera (integrated camera, image cropping, to pictures posted maps will tag APP) </A>
+<DT> <A HREF="https://github.com/siwangqishiq/ImageEditor-Android" ADD_DATE="96440789165"> siwangqishiq / ImageEditor-Android (open source graphics editing controls, support for custom filters picture rotation and textures picture picture trim operation) </A>
 <DT><A HREF="https://github.com/jarlen/PhotoEditDemo" ADD_DATE="96440789165">jarlen/PhotoEditDemo（图片编辑，各种效果）</A>
 <DT><A HREF="https://github.com/john990/WaveView" ADD_DATE="96440789165">john990/WaveView(波纹效果的View，可用来做 ProgressBar)</A>
 <DT><A HREF="https://github.com/lsjwzh/MaterialLoadingProgressBar" ADD_DATE="96440789165">MaterialLoadingProgressBar(Material Design进度指示器)</A>
 <DT><A HREF="https://github.com/dodola/DynamicCardLayout" ADD_DATE="96440789165">dodola/DynamicCardLayout(Windows8的瓷片布局)</A>
 <DT><A HREF="https://github.com/Ereza/CustomActivityOnCrash" ADD_DATE="96440789165">Ereza/CustomActivityOnCrash(自定义Crash提示页面)</A>
 <DT><A HREF="https://github.com/dersoncheng/MultipleTheme" ADD_DATE="96440789165">dersoncheng/MultipleTheme(换肤／夜间模式的Android框架)</A>
-<DT><A HREF="https://github.com/hongyangAndroid/AndroidChangeSkin" ADD_DATE="96440789165">hongyangAndroid/AndroidChangeSkin(一种完全无侵入的换肤方式，支持插件式和应用内，无需重启Activity)</A>
+<DT> <A HREF="https://github.com/hongyangAndroid/AndroidChangeSkin" ADD_DATE="96440789165"> hongyangAndroid / AndroidChangeSkin (a completely non-invasive way of skinning, and support within the plug-in applications without rebooting Activity ) </A>
 <DT><A HREF="https://github.com/MarkMjw/TreeView" ADD_DATE="96440789165">MarkMjw/TreeView(An android ExpandListView like IOS's TreeView)</A>
 <DT><A HREF="https://github.com/gcacace/android-signaturepad" ADD_DATE="96440789165">gcacace/android-signaturepad(签名板)</A>
 <DT><A HREF="https://github.com/rizhilee/Beautyacticle" ADD_DATE="96440789165">rizhilee/Beautyacticle(好用的文字APP)</A>
-<DT><A HREF="https://github.com/frogermcs/InstaMaterial" ADD_DATE="96440789165">frogermcs/InstaMaterial(概念设计(第六部分) – 用户介绍)</A>
+<DT> <A HREF="https://github.com/frogermcs/InstaMaterial" ADD_DATE="96440789165"> frogermcs / InstaMaterial (Conceptual Design (Part VI) - user introduction) </A>
 <DT><A HREF="https://github.com/igortrncic/dotted-progress-bar" ADD_DATE="96440789165">igortrncic/dotted-progress-bar(圆点进度条)</A>
-<DT><A HREF="https://github.com/dm77/barcodescanner" ADD_DATE="96440789165">dm77/barcodescanner(封装好的基于zxing二维码扫描库)</A>
+<DT> <A HREF="https://github.com/dm77/barcodescanner" ADD_DATE="96440789165"> dm77 / barcodescanner (packaged library scanning two-dimensional code based zxing) </A>
 <DT><A HREF="https://github.com/bingoogolapple/QRCode-Android" ADD_DATE="96440789165">bingoogolapple/QRCode-Android(二维码扫描库，参考barcodescanner)</A>
-<DT><A HREF="https://github.com/SkillCollege/QrCodeScan" ADD_DATE="96440789165">SkillCollege/QrCodeScan(二维码扫描，使用ZBar解码库)</A>
+<DT> <A HREF="https://github.com/SkillCollege/QrCodeScan" ADD_DATE="96440789165"> SkillCollege / QrCodeScan (scanned two-dimensional code, using the decoding library ZBar) </A>
 <DT><A HREF="https://github.com/Q42/AndroidScrollingImageView" ADD_DATE="96440789165">Q42/AndroidScrollingImageView(自动滚动的ImageView)</A>
 <DT><A HREF="https://github.com/frakbot/JumpingBeans" ADD_DATE="96440789165">frakbot/JumpingBeans(会跳动的文字)</A>
 <DT><A HREF="https://github.com/dlew/android-gridlayout" ADD_DATE="96440789165">dlew/android-gridlayout(九宫格卡片)</A>
@@ -334,7 +334,7 @@
 <DT><A HREF="https://github.com/fenjuly/ArrowDownloadButton" ADD_DATE="96440789165">fenjuly/ArrowDownloadButton(不错的下载进度按钮)</A>
 <DT><A HREF="https://github.com/panwrona/DownloadProgressBar" ADD_DATE="96440789165">panwrona/DownloadProgressBar(不错的下载进度条)</A>
 <DT><A HREF="https://github.com/fenjuly/SpinnerLoader" ADD_DATE="96440789165">fenjuly/SpinnerLoader(不错的progressBar)</A>
-<DT><A HREF="https://github.com/fenjuly/CombinationImageView" ADD_DATE="96440789165">fenjuly/CombinationImageView(仿微信多人聊天的头像显示)</A>
+<DT> <A HREF="https://github.com/fenjuly/CombinationImageView" ADD_DATE="96440789165"> fenjuly / CombinationImageView (imitation micro-channel multi-user chat avatar display) </A>
 <DT><A HREF="https://github.com/kongnanlive/android-combination-avatar" ADD_DATE="96440789165">kongnanlive/android-combination-avatar(仿QQ讨论组头像)</A>
 <DT><A HREF="https://github.com/florent37/Carpaccio" ADD_DATE="96440789165">florent37/Carpaccio(Data Mapping & Smarter Views framework )</A>
 <DT><A HREF="https://github.com/Kyson/WhorlView" ADD_DATE="96440789165">Kyson/WhorlView(Progressbar with whorl style)</A>
@@ -344,30 +344,30 @@
 <DT><A HREF="https://github.com/badoo/android-weak-handler" ADD_DATE="96440789165">badoo/android-weak-handler(弱引用Handler库，防止内存泄露)</A>
 <DT><A HREF="https://github.com/anshulagarwal2k/GooeyMenu" ADD_DATE="96440789165">anshulagarwal2k/GooeyMenu(Fab Button with Gooey effect)</A>
 <DT><A HREF="https://github.com/zzz40500/AndroidSweetSheet" ADD_DATE="96440789165">zzz40500/AndroidSweetSheet(富有动感的 Sheet(选择器))</A>
-<DT><A HREF="https://github.com/nicewarm/ViewPagerStickyTransformer" ADD_DATE="96440789165">nicewarm/ViewPagerStickyTransformer(Viewpager的切换时，粘滞视差的效果)</A>
+<DT> <A HREF="https://github.com/nicewarm/ViewPagerStickyTransformer" ADD_DATE="96440789165"> nicewarm / ViewPagerStickyTransformer (switching Viewpager the viscous parallax effect) </A>
 <DT><A HREF="https://github.com/rey5137/material" ADD_DATE="96440789165">rey5137/material(MaterialLibrary)</A>
 <DT><A HREF="https://github.com/ZieIony/Carbon" ADD_DATE="96440789165">ZieIony/Carbon(MaterialLibrary兼容到Android2.2)</A>
 <DT><A HREF="https://github.com/lfkdsk/JustWeTools" ADD_DATE="96440789165">lfkdsk/JustWeTools(自定义库，包括：PaintView、CodeView、ExplorerView、ReadBookView)</A>
 <DT><A HREF="https://github.com/glomadrian/velocimeter-view" ADD_DATE="96440789165">glomadrian/velocimeter-view(测速仪效果)</A>
-<DT><A HREF="https://github.com/xmuSistone/android-image-slide-panel" ADD_DATE="96440789165">xmuSistone/android-image-slide-panel(图片照片墙的加载和滑动特效)</A>
+<DT> <A HREF="https://github.com/xmuSistone/android-image-slide-panel" ADD_DATE="96440789165"> xmuSistone / android-image-slide-panel (picture photo wall loading and sliding effects ) </A>
 <DT><A HREF="https://github.com/DavidPizarro/PinView" ADD_DATE="96440789165">DavidPizarro/PinView(密码框)</A>
 <DT><A HREF="https://github.com/ZhaoKaiQiang/ParticleLayout/" ADD_DATE="96440789165">ZhaoKaiQiang/ParticleLayout(左滑粒子效果)</A>
 <DT><A HREF="https://github.com/THEONE10211024/CircleIndicator" ADD_DATE="96440789165">THEONE10211024/CircleIndicator(轻量级的ViewPager指示器)</A>
 <DT><A HREF="https://github.com/kingideayou/TagCloudView" ADD_DATE="96440789165">kingideayou/TagCloudView(标签云效果)</A>
-<DT><A HREF="https://github.com/rahulrj/YahooNewsOnboarding" ADD_DATE="96440789165">rahulrj/YahooNewsOnboarding(ViewPager实现欢迎页面动画效果)</A>
+<DT> <A HREF="https://github.com/rahulrj/YahooNewsOnboarding" ADD_DATE="96440789165"> rahulrj / YahooNewsOnboarding (ViewPager achieve the welcome page animation) </A>
 <DT><A HREF="https://github.com/iceAnson/ChartView" ADD_DATE="96440789165">iceAnson/ChartView(自定义图表控件)</A>
 <DT><A HREF="https://github.com/north2014/A-MusicView" ADD_DATE="96440789165">north2014/A-MusicView(Canvas实时绘制音乐波形图)</A>
 <DT><A HREF="https://github.com/MiguelCatalan/MaterialSearchView" ADD_DATE="96440789165">MiguelCatalan/MaterialSearchView(Material Design风格SearchView实现语音搜索功能)</A>
 <DT><A HREF="https://github.com/lapism/SearchView" ADD_DATE="96440789165">lapism/SearchView(仿 Google Now 的搜索View控件)</A>
-<DT><A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165">Bossyao168/RotateMenu(简单地旋转菜单控件,要5.0+)</A>
+<DT> <A HREF="https://github.com/Bossyao168/RotateMenu" ADD_DATE="96440789165"> Bossyao168 / RotateMenu (simply rotating menu controls to 5.0+) </A>
 <DT><A HREF="https://github.com/Bossyao168/StackOverView" ADD_DATE="96440789165">Bossyao168/StackOverView(Android 5.0 任务管理器控件,自定义Overview 控件)</A>
 <DT><A HREF="https://github.com/timehop/sticky-headers-recyclerview" ADD_DATE="96440789165">timehop/sticky-headers-recyclerview(recycleview实现group顶部固定)</A>
 <DT><A HREF="https://github.com/Jude95/EasyRecyclerView" ADD_DATE="96440789165">Jude95/EasyRecyclerView(recycleview封装)</A>
 <DT><A HREF="https://github.com/Syehunter/RecyclerViewManager" ADD_DATE="96440789165">Syehunter/RecyclerViewManager(RecyclerView下拉刷新和上拉加载)</A>
 <DT><A HREF="https://github.com/cundong/HeaderAndFooterRecyclerView" ADD_DATE="96440789165">cundong/HeaderAndFooterRecyclerView(支持addHeaderView、 addFooterView、分页加载的RecyclerView解决方案)</A>
 <DT><A HREF="https://github.com/lsjwzh/RecyclerViewPager" ADD_DATE="96440789165">lsjwzh/RecyclerViewPager(基于RecyclerView实现的ViewPager)</A>
-<DT><A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165">zzz40500/Android-PullToNextLayout(上拉或下拉显示下一个界面，类似今日头条详情页)</A>
-<DT><A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165">hanks-zyh/ScrollViewOnTouch(仿百度助手头部搜索框缩放)</A>
+<DT> <A HREF="https://github.com/zzz40500/Android-PullToNextLayout" ADD_DATE="96440789165"> zzz40500 / Android-PullToNextLayout (pulled up or down a display interface, similar to today details page headlines) < / A>
+<DT> <A HREF="https://github.com/hanks-zyh/ScrollViewOnTouch" ADD_DATE="96440789165"> hanks-zyh / ScrollViewOnTouch (simulated search box zoom Baidu head assistant) </A>
 <DT><A HREF="https://github.com/mxn21/FlowingDrawer" ADD_DATE="96440789165">mxn21/FlowingDrawer(swipe right to display drawer with flowing effects,果冻效果)</A>
 <DT><A HREF="https://github.com/LuckyJayce/LargeImage" ADD_DATE="96440789165">LuckyJayce/LargeImage(加载大图)</A>
 <DT><A HREF="https://github.com/PoplarTang/FancyListIndexer" ADD_DATE="96440789165">PoplarTang/FancyListIndexer(跟随手指变化的字母索引Listview)</A>
@@ -384,35 +384,35 @@
 <DT><A HREF="https://github.com/lfkdsk/JustWeEngine" ADD_DATE="96440789165">lfkdsk/JustWeEngine（轻量级游戏框架）</A>
 <DT><A HREF="https://github.com/Yalantis/StarWars.Android" ADD_DATE="96440789165">Yalantis/StarWars.Android</A>
 <DT><A HREF="https://github.com/tianzhijiexian/UIBlock" ADD_DATE="96440789165">tianzhijiexian/UIBlock（代替fragment的轻量级解耦UI）</A>
-<DT><A HREF="https://github.com/hpfs0/DragScaleCircleView" ADD_DATE="96440789165">hpfs0/DragScaleCircleView（圆形拖动缩放View，头像裁剪）</A>
+<DT> <A HREF="https://github.com/hpfs0/DragScaleCircleView" ADD_DATE="96440789165"> hpfs0 / DragScaleCircleView (circular drag zoom View, cutting head) </A>
 <DT><A HREF="https://github.com/cpoopc/SmoothEmotionKeyBoard" ADD_DATE="96440789165">cpoopc/SmoothEmotionKeyBoard（流畅切换 输入法/表情）</A>
 <DT><A HREF="https://github.com/hanks-zyh/SmallBang" ADD_DATE="96440789165">hanks-zyh/SmallBang（twitter like animation for any view :heartbeat:）</A>
 <DT><A HREF="https://github.com/StylingAndroid/Snowfall" ADD_DATE="96440789165">StylingAndroid/Snowfall（下雪效果）</A>
-<DT><A HREF="https://github.com/asdzheng/SMRadarScanView" ADD_DATE="96440789165">asdzheng/SMRadarScanView（仿锤子系统的垃圾扫描的自定义View）</A>
+<DT> <A HREF="https://github.com/asdzheng/SMRadarScanView" ADD_DATE="96440789165"> asdzheng / SMRadarScanView (spam scanning system of imitation custom hammer View) </A>
 <DT><A HREF="https://github.com/nomanr/ZoomTextView" ADD_DATE="96440789165">nomanr/ZoomTextView（TextView缩放显示）</A>
 <DT><A HREF="https://github.com/Xieyupeng520/AZExplosion" ADD_DATE="96440789165">Xieyupeng520/AZExplosion（模仿ExplosionField的粒子破碎效果）</A>
 <DT><A HREF="https://github.com/tyrantgit/ExplosionField" ADD_DATE="96440789165">tyrantgit/ExplosionField（ExplosionField的粒子破碎效果）</A>
 <DT><A HREF="https://github.com/zhanyongsheng/BrokenView" ADD_DATE="96440789165">zhanyongsheng/BrokenView（给任意view添加玻璃破碎掉落的效果）</A>
-<DT><A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165">siwangqishiq/DiscView（圆盘显示控件 动画展示数据）</A>
-<DT><A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165">succlz123/BlueBoard（一个Acfun弹幕网站的第三方客户端）</A>
-<DT><A HREF="https://github.com/Bilibili/DanmakuFlameMaster" ADD_DATE="96440789165">Bilibili/DanmakuFlameMaster（开源弹幕解析绘制引擎项目）</A>
+<DT> <A HREF="https://github.com/siwangqishiq/DiscView" ADD_DATE="96440789165"> siwangqishiq / DiscView (disc data display controls animation display) </A>
+<DT> <A HREF="https://github.com/succlz123/BlueBoard" ADD_DATE="96440789165"> succlz123 / BlueBoard (Acfun a barrage of third-party client site) </A>
+<DT> <A HREF="https://github.com/Bilibili/DanmakuFlameMaster" ADD_DATE="96440789165"> Bilibili / DanmakuFlameMaster (open Barrage Project parsing rendering engine) </A>
 <DT><A HREF="https://github.com/cock-tail/DanmuDemo" ADD_DATE="96440789165">cock-tail/DanmuDemo（样式看起来比较丰富的弹幕）</A>
 <DT><A HREF="https://github.com/xujinyang/BiuEditText" ADD_DATE="96440789165">xujinyang/BiuEditText（一个有趣的EditText）</A>
-<DT><A HREF="https://github.com/DaoKunGitHub/NiceAppDemo" ADD_DATE="96440789165">DaoKunGitHub/NiceAppDemo（仿最美应用-每日最美的钢琴律动效果）</A>
-<DT><A HREF="https://github.com/kot32go/GaussPager" ADD_DATE="96440789165">kot32go/GaussPager（高斯模糊渐变的滑动效果）</A>
-<DT><A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165">kazy1991/FontDrawable（可以将 Icon-font 转换为 Drawable 或者 Bitmap 的库）</A>
-<DT><A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165">renaudcerrato/ToggleDrawable（一个可以让你很容易的创建基于贝塞尔曲线的 Drawable 动画的库）</A>
-<DT><A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165">Danylo2006/HashTagHelper（高亮话题标签("#example")以及捕获点击话题标签事件的库）</A>
-<DT><A HREF="https://github.com/Qiaoidea/QQTipsView" ADD_DATE="96440789165">Qiaoidea/QQTipsView（仿QQ消息未读拖拽清除）</A>
+<DT> <A HREF="https://github.com/DaoKunGitHub/NiceAppDemo" ADD_DATE="96440789165"> DaoKunGitHub / NiceAppDemo (imitation best application - beautiful daily rhythm piano effect) </A>
+<DT> <A HREF="https://github.com/kot32go/GaussPager" ADD_DATE="96440789165"> kot32go / GaussPager (Gaussian blur gradient sliding effect) </A>
+<DT> <A HREF="https://github.com/kazy1991/FontDrawable" ADD_DATE="96440789165"> kazy1991 / FontDrawable (Icon-font can be converted into a library Drawable or Bitmap) </A>
+<DT> <A HREF="https://github.com/renaudcerrato/ToggleDrawable" ADD_DATE="96440789165"> renaudcerrato / ToggleDrawable (one that will allow you to easily create animations based on Bezier curves Drawable library) < / A>
+<DT> <A HREF="https://github.com/Danylo2006/HashTagHelper" ADD_DATE="96440789165"> Danylo2006 / HashTagHelper (highlighted topic label ( "#example") and click on the topic of tag event capture library) < / A>
+<DT> <A HREF="https://github.com/Qiaoidea/QQTipsView" ADD_DATE="96440789165"> Qiaoidea / QQTipsView (like QQ unread message drag cleared) </A>
 <DT><A HREF="https://github.com/Yalantis/uCrop" ADD_DATE="96440789165">Yalantis/uCrop（图片裁剪）</A>
 <DT><A HREF="https://github.com/yulu/crop-image-layout" ADD_DATE="96440789165">yulu/crop-image-layout（图片裁剪）</A>
-<DT><A HREF="https://github.com/yxping/AdhesiveLoadingView" ADD_DATE="96440789165">yxping/AdhesiveLoadingView（具有粘性的滑动小球，跌落反弹形成loading的效果）</A>
+<DT> <A HREF="https://github.com/yxping/AdhesiveLoadingView" ADD_DATE="96440789165"> yxping / AdhesiveLoadingView (viscous sliding pellets drop formation rebound loading effect) </A>
 <DT><A HREF="https://github.com/andyxialm/SmoothCheckBox" ADD_DATE="96440789165">andyxialm/SmoothCheckBox（带有动画效果的CheckBox）</A>
 <DT><A HREF="https://github.com/geftimov/android-pathview" ADD_DATE="96440789165">geftimov/android-pathview（通过Path或者svg动态绘制View）</A>
 <DT><A HREF="https://github.com/rtugeek/ColorSeekBar" ADD_DATE="96440789165">rtugeek/ColorSeekBar（颜色选择SeekBar）</A>
 <DT><A HREF="https://github.com/Naoki2015/CircleDemo" ADD_DATE="96440789165">Naoki2015/CircleDemo（仿微信朋友圈）</A>
 <DT><A HREF="https://github.com/alorma/TimelineView" ADD_DATE="96440789165">alorma/TimelineView（漂亮的时间轴自定义 View）</A>
-<DT><A HREF="https://github.com/Piasy/RxAndroidAudio" ADD_DATE="96440789165">Piasy/RxAndroidAudio（Android声音录制和播放封装库了）</A>
+<DT> <A HREF="https://github.com/Piasy/RxAndroidAudio" ADD_DATE="96440789165"> Piasy / RxAndroidAudio (Android voice recording and playback library package a) </A>
 <DT><A HREF="https://github.com/roughike/SwipeSelector" ADD_DATE="96440789165">roughike/SwipeSelector（可以左右滑动切换 item 的 Selector）</A>
 <DT><A HREF="https://github.com/chaossss/PianoView" ADD_DATE="96440789165">chaossss/PianoView（一种新的 HeaderView + RecyclerView实现方式）</A>
 <DT><A HREF="https://github.com/fishCoder/InstrumentPanelView" ADD_DATE="96440789165">fishCoder/InstrumentPanelView（高光效果的仪表盘控件）</A>
@@ -421,20 +421,21 @@
 <DT><A HREF="https://github.com/shts/TriangleLabelView" ADD_DATE="96440789165">shts/TriangleLabelView（自定义三角标签 View）</A>
 <DT><A HREF="https://github.com/saiff35/LivingTabs" ADD_DATE="96440789165">saiff35/LivingTabs（仿 Youtube Gaming Tabs 滑动效果）</A>
 <DT><A HREF="https://github.com/w446108264/XhsEmoticonsKeyboard" ADD_DATE="96440789165">XhsEmoticonsKeyboard（开源表情键盘解决方案）</A>
-<DT><A HREF="https://github.com/Jacksgong/JKeyboardPanelSwitch" ADD_DATE="96440789165">Jacksgong/JKeyboardPanelSwitch（Android键盘面板冲突 布局闪动处理方案）</A>
-<DT><A HREF="https://github.com/HelloVass/SmartKeyboardManager" ADD_DATE="96440789165">HelloVass/SmartKeyboardManager（优雅地切换表情键盘和软键盘）</A>
-<DT><A HREF="https://github.com/Nightonke/BlurLockView" ADD_DATE="96440789165">Nightonke/BlurLockView（毛玻璃效果的解锁界面，仿IOS解锁界面）</A>
+<DT> <A HREF="https://github.com/Jacksgong/JKeyboardPanelSwitch" ADD_DATE="96440789165"> Jacksgong / JKeyboardPanelSwitch (Android keyboard layout panel conflict processing scheme flashing) </A>
+<DT> <A HREF="https://github.com/HelloVass/SmartKeyboardManager" ADD_DATE="96440789165"> HelloVass / SmartKeyboardManager (gracefully switching soft keyboard and the keyboard face) </A>
+<DT> <A HREF="https://github.com/Nightonke/BlurLockView" ADD_DATE="96440789165"> Nightonke / BlurLockView (frosted glass effect unlocking interface, imitation unlocking interface IOS) </A>
 <DT><A HREF="https://github.com/markzhai/LyricView" ADD_DATE="96440789165">markzhai/LyricView（lrc 歌词显示控件）</A>
 <DT><A HREF="https://github.com/DevLight-Mobile-Agency/NavigationTabBar" ADD_DATE="96440789165">DevLight-Mobile-Agency/NavigationTabBar（Navigation tab bar with colorful interactions）</A>
 <DT><A HREF="https://github.com/cooltechworks/ScratchView" ADD_DATE="96440789165">cooltechworks/ScratchView（刮刮卡View）</A>
 <DT><A HREF="https://github.com/frogermcs/AndroidDevMetrics" ADD_DATE="96440789165">frogermcs/AndroidDevMetrics（Android 性能度量库）</A>
-<DT><A HREF="https://github.com/Meetic/MaryPopup" ADD_DATE="96440789165">Meetic/MaryPopup（可以给View添加展开和关闭动画效果的库）</A>
+<DT> <A HREF="https://github.com/Meetic/MaryPopup" ADD_DATE="96440789165"> Meetic / MaryPopup (You can add animation effects to expand and close to the View library) </A>
 <DT><A HREF="https://github.com/mr5/icarus-android" ADD_DATE="96440789165">mr5/icarus-android（安卓富文本编辑器）</A>
-<DT><A HREF="https://github.com/venshine/GoodView" ADD_DATE="96440789165">venshine/GoodView（点赞+1效果，支持文本和图像）</A>
-<DT><A HREF="https://github.com/ImmortalZ/RadarScan" ADD_DATE="96440789165">ImmortalZ/RadarScan（雷达扫描显示的扫描图，超高仿QQ附近的人搜索展示）</A>
-<DT><A HREF="https://github.com/joyoyao/superCleanMaster" ADD_DATE="96440789165">joyoyao/superCleanMaster（一键清理 开源版，包括内存加速，缓存清理，自启管理，软件管理等）</A>
-<DT><A HREF="https://github.com/hujiaweibujidao/yava" ADD_DATE="96440789165">hujiaweibujidao/yava（常见的30个缓动函数的实现，支持Interpolator和TypeEvaluator）</A>
-<DT><A HREF="https://github.com/zhe525069676/BgMoveViewPager" ADD_DATE="96440789165">zhe525069676/BgMoveViewPager（可全方位滑动，背景图片跟随手势滑动的ViewPager）</A>
-<DT><A HREF="https://github.com/ldoublem/LoadingView" ADD_DATE="96440789165">ldoublem/LoadingView（简单的带有各种动画效果的加载控件）</A>
+<DT> <A HREF="https://github.com/venshine/GoodView" ADD_DATE="96440789165"> venshine / GoodView (+1 point Like effect, support text and images) </A>
+<DT> <A HREF="https://github.com/ImmortalZ/RadarScan" ADD_DATE="96440789165"> ImmortalZ / RadarScan (scan radar scan display, near the ultrahigh like QQ search display al) </ A >
+<DT> <A HREF="https://github.com/joyoyao/superCleanMaster" ADD_DATE="96440789165"> joyoyao / superCleanMaster (a key clean open-source version, including accelerated memory, cache cleaning, self-priming management, software management, etc. ) </A>
+<DT> <A HREF="https://github.com/hujiaweibujidao/yava" ADD_DATE="96440789165"> hujiaweibujidao / yava (30 commonly implemented easing function, and support Interpolator TypeEvaluator) </A>
+<DT> <A HREF="https://github.com/zhe525069676/BgMoveViewPager" ADD_DATE="96440789165"> zhe525069676 / BgMoveViewPager (available all-round slide, background picture, following the gesture of sliding ViewPager) </A>
+<DT> <A HREF="https://github.com/ldoublem/LoadingView" ADD_DATE="96440789165"> ldoublem / LoadingView (simple load control with a variety of animation effects) </A>
 <DT><A HREF="https://github.com/HeZaiJin/SlantedTextView" ADD_DATE="96440789165">HeZaiJin/SlantedTextView（角标TextView）</A>
 </DL><P>
+
